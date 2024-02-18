@@ -8,7 +8,7 @@ ASP.NET Core MVC - 6.0 <br>
 Entity Framework <br>
 Microsoft SQL Server  <br>
 HTML, CSS, JavaScript <br>
-N Katmanlı Mimari  <br>
+N-Tier Architecture  <br>
 Repository Design Pattern  <br>
 
 ![1](https://github.com/yesimdogan/FoodyTekmerWebUI/assets/79968037/5228c349-6a54-486f-ae75-cd610d5ad61b)
